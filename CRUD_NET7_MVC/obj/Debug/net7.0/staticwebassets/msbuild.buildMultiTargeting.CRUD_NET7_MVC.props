@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CRUD_NET7_MVC.props" />
+</Project>
